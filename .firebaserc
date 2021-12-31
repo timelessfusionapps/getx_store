@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "hosting-web-apps"
+  },
+  "targets": {
+    "hosting-web-apps": {
+      "hosting": {
+        "getx": [
+          "getx-store"
+        ]
+      }
+    }
+  }
+}
